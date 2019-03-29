@@ -10,9 +10,9 @@ Include SSL & Port Udpgw 7200 Untuk Video Call
 
 Script VPS: 
 
-Debian 8 32 bit : wget https://github.com/Mr-Kenyut/Debian/raw/master/Deb832/install8.sh && chmod +x install8.sh && ./install8.sh
+Debian 8 32 bit : wget https://github.com/Mr-Kenyut/Debian8/raw/master/Deb832/install8.sh && chmod +x install8.sh && ./install8.sh
 
-Debian 8 64 bit : wget https://github.com/Mr-Kenyut/Debian/raw/master/Install8.sh && chmod +x Install8.sh && ./Install8.sh
+Debian 8 64 bit : wget https://github.com/Mr-Kenyut/Debian8/raw/master/Install8.sh && chmod +x Install8.sh && ./Install8.sh
 
 
 Terima kasih karena sudah menggunakan script premium saya, Big Thanks To All Brother Fornesia , Gknight reborn ,
